@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(147, 147, 175);
+    background-position: center;
+    background-size: cover;
+}
+form{
+    background-color: rgb(65, 65, 226);
+    width: 250px;
+    padding: 20px;
+    height: 150px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+label{
+    color: white;
+    font-size: 20px;
+}
+label input{
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+}
+button{
+    width: 90px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+    background-color: rgb(25, 156, 13);
+    color: white;
+}
+button:hover{
+    background-color: #fa0b0b;
+}
+input[type="submit"]{
+    width: 90px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 6px;
+    background-color: rgb(25, 156, 13);
+    color: white;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+placeholder{
+    color: rgb(27, 4, 236);
+    font-size: 20px;
+}
